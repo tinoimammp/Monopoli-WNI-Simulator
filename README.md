@@ -8,6 +8,14 @@ Game monopoli online dengan sentuhan lokal Indonesia. Main bareng teman, rebutan
 
 https://monopoli.wnisimulator.web.id
 
+## Gameplay
+
+![Gameplay 1](./gameplay-1.jpg)
+
+![Gameplay 2](./gameplay-2.jpg)
+
+![Gameplay 3](./gameplay-3.jpg)
+
 ## Cara Main
 
 - Buat room dan ajak teman untuk bermain.
